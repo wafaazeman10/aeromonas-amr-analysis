@@ -4,7 +4,6 @@ This project explores antimicrobial resistance (AMR) trends of Aeromonas species
 ## 📂 Project Structure
 - /data – Not publicly shared (restricted dataset from NIH Malaysia).
 - /analysis – PNG charts generated during EDA and GLM reporting.
-- /screenshots – Screenshots of pivot tables / Excel cleaning / transformation steps (non-sensitive).
 - insights.md – Markdown summary of all key insights extracted from the analysis.
 
 ⚠️ Raw dataset is not uploaded due to data ownership and confidentiality restrictions (NIH Malaysia / IMR).
