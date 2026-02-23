@@ -62,19 +62,19 @@ While overall resistance stability is reassuring, the upward trend in Phenicols 
 ### 6️⃣ Statistical Insights from Generalized Linear Models (GLM)
 A binomial GLM was applied to identify significant predictors of antimicrobial resistance.
 
-Significant predictors:
-- Antibiotic class – Strongly associated with resistance outcomes.
-- Specimen type – Stool specimens were associated with higher resistance, while tissue specimens were associated with lower resistance.
-- Species – Aeromonas sobria was significantly associated with a lower probability of resistance.
+#### Significant predictors:
+- **Antibiotic class** – Strongly associated with resistance outcomes.
+- **Specimen type** – Stool specimens were associated with higher resistance, while tissue specimens were associated with lower resistance.
+- **Species** – Aeromonas sobria was significantly associated with a lower probability of resistance.
 
-Non-significant predictor:
+#### Non-significant predictor:
 
-- Year of isolation – Not statistically significant, indicating that resistance patterns did not change substantially over time.
+- **Year of isolation** – Not statistically significant, indicating that resistance patterns did not change substantially over time.
 
 Model refinement (removal of the year variable) resulted in:
 
-- Lower residual deviance
-- Substantially reduced AIC, indicating improved model fit without loss of explanatory power.
+- **Lower residual deviance**
+- **Substantially reduced AIC**, indicating improved model fit without loss of explanatory power.
 
 Residual diagnostic plots showed no major systematic patterns, suggesting that the GLM provided a reasonable and robust fit to the data.
 
@@ -87,3 +87,7 @@ Based on the findings:
 - Species-specific and specimen-based treatment strategies can improve therapeutic effectiveness.
 - The increasing resistance trend observed in Phenicols warrants closer monitoring.
 - Continuous and comprehensive antimicrobial resistance surveillance programs are essential to detect emerging threats early.
+
+### 📌 Final Takeaway
+
+This analysis demonstrates that antimicrobial resistance in Aeromonas species is not uniform and is strongly influenced by antibiotic class, specimen type, and species. While resistance trends were largely stable between 2014 and 2020, the emergence of increasing resistance in certain antibiotic classes highlights the ongoing need for targeted research, improved diagnostics, and sustained surveillance to mitigate future risks.
