@@ -18,12 +18,11 @@ Clinical isolates were obtained from four main specimen sources:
 
 Although blood samples constituted nearly half of all isolates, resistance patterns varied considerably by specimen type.
 
-Key observations:
-
-#### Stool specimens were consistently associated with higher resistance levels, particularly for Penicillins and Tetracyclines.
-#### Tissue specimens generally showed lower resistance, a finding later supported by GLM results.
-#### Swab specimens exhibited wide variability, including very high resistance to Penicillins.
-##### Blood specimens demonstrated relatively lower resistance to several antibiotic classes, including Aminoglycosides and Quinolones.
+### Key observations:
+- **Stool specimens** were consistently associated with higher resistance levels, particularly for Penicillins and Tetracyclines.
+- **Tissue specimens** generally showed lower resistance, a finding later supported by GLM results.
+- **Swab specimens** exhibited wide variability, including very high resistance to Penicillins.
+- **Blood specimens** demonstrated relatively lower resistance to several antibiotic classes, including Aminoglycosides and Quinolones.
 
 These findings highlight the importance of considering the infection site when selecting antibiotic therapy, as resistance profiles differ substantially across specimen types.
 
